@@ -1,6 +1,4 @@
 import React from 'react';
-import { programs } from '../../settings/xconfig';
-import { ProgressBar } from '../../components/ProgressBar';
 
 export default function MoreInfo() {
     function myFunction() {

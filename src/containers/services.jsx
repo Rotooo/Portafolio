@@ -1,5 +1,5 @@
 import React from 'react';
-import CodeDialog from './Dialogs/CodeDialog';
+import CodeDialog from './Dialogs/CodeDiag';
 
 export default function services() {
   return (

@@ -1,7 +1,7 @@
 import React from 'react';
 import Typed from 'typed.js';
 import { useTranslation } from 'react-i18next';
-import Image1 from '../assets/img/ccbuho3.png';
+import Image1 from '../assets/img/perfil.png';
 
 export default function home() {
     const { t } = useTranslation();
